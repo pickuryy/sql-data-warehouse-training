@@ -28,6 +28,7 @@ For every layer in the pipeline, a consistent three-step process was applied:
    *  Logic Standardization: Handling date formatting and integer logic to ensure mathematical accuracy.
 *  Data Loading (Insert): Executing the final ETL scripts to populate the modeled tables with validated data.
 
+<img width="4084" height="2644" alt="image" src="https://github.com/user-attachments/assets/f9268eaf-b075-4ef0-8dd8-0cb5f5839378" />
 
 ## Acknowledgement
 Special thanks to **Baraa** from the [Data with Baraa YouTube Channel](https://www.youtube.com/@DataWithBaraa) for the excellent training materials and dataset that made this project possible.
