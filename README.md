@@ -6,10 +6,10 @@ A hands-on project demonstrating the construction of a robust Data Warehouse. Th
 ## Tech Stack
 *   **Database:** SQL Server
 *   **Key Features:**
-    *     Designed and implemented a Star Schema architecture.
-    *     Developed **ETL (Extract, Transform, Load)** processes to handle data cleaning and integration.
-    *     Created Fact and Dimension tables to optimize query performance for BI tools.
-    *     **Relational Data Modeling:** Establishing logical schemas and table integration to ensure seamless data flow and referential integrity.
+    *  Designed and implemented a Star Schema architecture.
+    *  Developed **ETL (Extract, Transform, Load)** processes to handle data cleaning and integration.
+    *  Created Fact and Dimension tables to optimize query performance for BI tools.
+    *  **Relational Data Modeling:** Establishing logical schemas and table integration to ensure seamless data flow and referential integrity.
 
 ## Acknowledgement
 Special thanks to **Baraa** from the [Data with Baraa YouTube Channel](https://www.youtube.com/@DataWithBaraa) for the excellent training materials and dataset that made this project possible.
